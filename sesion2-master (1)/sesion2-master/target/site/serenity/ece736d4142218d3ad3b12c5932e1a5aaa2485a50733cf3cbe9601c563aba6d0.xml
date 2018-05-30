@@ -1,0 +1,21 @@
+<acceptance-test-run title="LOGIN PAGE" name="_loginTest" steps="5" successful="5" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="5935" timestamp="2018-05-22T20:14:36.579-06:00">
+  <user-story id="tests.SerenityTest" name="Serenity test" path="tests"/>
+  <tags>
+    <tag name="Serenity test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="1587">
+    <description>Goto login: &lt;span class=&apos;step-parameter&apos;&gt;ChromeDriver: chrome on XP (03d843127fe397fb60e672f44372c2fa)&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="137">
+    <description>Setusername: &lt;span class=&apos;step-parameter&apos;&gt;ChromeDriver: chrome on XP (03d843127fe397fb60e672f44372c2fa)&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="104">
+    <description>Setpass1: &lt;span class=&apos;step-parameter&apos;&gt;ChromeDriver: chrome on XP (03d843127fe397fb60e672f44372c2fa)&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="105">
+    <description>Setpass2: &lt;span class=&apos;step-parameter&apos;&gt;ChromeDriver: chrome on XP (03d843127fe397fb60e672f44372c2fa)&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="79">
+    <description>Submit: &lt;span class=&apos;step-parameter&apos;&gt;ChromeDriver: chrome on XP (03d843127fe397fb60e672f44372c2fa)&lt;/span&gt;</description>
+  </test-step>
+</acceptance-test-run>

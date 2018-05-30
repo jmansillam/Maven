@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.SerenityTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.204 s <<< FAILURE! - in tests.SerenityTest
+_loginTest(tests.SerenityTest)  Time elapsed: 0.124 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)V
+	at tests.SerenityTest._loginTest(SerenityTest.java:31)
+
